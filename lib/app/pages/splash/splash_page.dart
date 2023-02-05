@@ -14,7 +14,7 @@ class _SplashPageState extends State<SplashPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: ColoredBox(
-        color: Color(0XFF140E0E),
+        color: const Color(0XFF140E0E),
         child: Stack(
           children: [
             Align(

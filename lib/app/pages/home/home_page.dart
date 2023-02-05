@@ -19,6 +19,8 @@ class HomePage extends StatefulWidget {
 class _HomePageState extends BaseState<HomePage, HomeController> {
   @override
   void onReady() {
+    // ESTÁ COMENTADO O COMANDO PARA LIPAR O LOGUIN
+    //SharedPreferences.getInstance().then((value) => value.clear());
     controller.loadProducts();
   }
 

@@ -19,8 +19,7 @@ class OrderField extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     const defaultBorder = UnderlineInputBorder();
-    borderSide:
-    BorderSide(color: Colors.grey);
+    const BorderSide(color: Colors.grey);
     return Padding(
       padding: const EdgeInsets.symmetric(horizontal: 3.0),
       child: Column(
@@ -40,9 +39,11 @@ class OrderField extends StatelessWidget {
             ),
           ),
           TextFormField(
+            controller: controller,
+            validator: validator,
             decoration: InputDecoration(
               hintText: hintText,
-              border: UnderlineInputBorder(),
+              border: defaultBorder,
               enabledBorder: defaultBorder,
               focusedBorder: defaultBorder,
             ),
