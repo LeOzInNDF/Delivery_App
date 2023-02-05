@@ -1,5 +1,6 @@
 import 'package:dart_week_delivery_app/app/core/provider/application_binding.dart';
 import 'package:dart_week_delivery_app/app/pages/auth/login/loguin_router.dart';
+import 'package:dart_week_delivery_app/app/pages/order/order_page.dart';
 import 'package:dart_week_delivery_app/app/pages/product_detail/product_detail_router.dart';
 import 'package:dart_week_delivery_app/app/pages/splash/splash_page.dart';
 import 'package:flutter/material.dart';
@@ -23,6 +24,7 @@ class DartWeekDeliveryApp extends StatelessWidget {
           '/productDetail': (context) => ProductDetailRouter.page,
           '/auth/login': (context) => LoguinRouter.page,
           '/auth/register': (context) => RegisterRouter.page,
+          '/order': (context) => const OrderPage()
         },
       ),
     );
