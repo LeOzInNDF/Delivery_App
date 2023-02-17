@@ -1,5 +1,5 @@
 <p align="center">
-    ![App_finalizadoESSE](https://user-images.githubusercontent.com/112107085/219674772-56755230-0bb9-401c-be2b-02a07a102e20.png)
+    <img height="500em" src="https://user-images.githubusercontent.com/112107085/219674772-56755230-0bb9-401c-be2b-02a07a102e20.png"
 
 </p>
 
