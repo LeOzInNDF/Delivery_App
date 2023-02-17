@@ -1,29 +1,21 @@
 <p align="center">
-    <img width="300" src="./assets/images/banner/logo.svg">
+    ![App_finalizadoESSE](https://user-images.githubusercontent.com/112107085/219674772-56755230-0bb9-401c-be2b-02a07a102e20.png)
+
 </p>
 
 -------
-Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Invertido é incerto, repleto de obstáculos e perigos. Porém, a recompensa é grande: salvar Hawkings e o mundo todo das garras de Vecna. Você está preparado(a)? 
+Criação de um app de delivery de ponta a ponta, do Front ao Backend. com servidor local em json.  
 
 ## 💻 Tecnologias
 - DART
 - FLUTTER
 
-## 💬 Assuntos abordados
-- HTML
-    - Estruturação da página 
-    - Semântica
-    - Acessibilidade
-    - Web Scraping
-    - SEO
-- CSS
-    - Posicionamentos
-    - Pseudo-elementos
-    - Pseudo-classes
-    - Flexbox
-    - Animações 
-- JavaScript
-    - Introdução ao JavaScript
-    - Manipulação do DOM
-    - Introdução ao Firebase
-    - Integração com o Firebase
+## 💬 Packager
+- DART
+    - FLUTTER
+    - PROVIDER 
+    - BLOC
+    - ACESSTOKEN
+    - DIO
+    
+
