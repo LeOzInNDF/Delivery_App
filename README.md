@@ -1,16 +1,29 @@
-# dart_week_delivery_app
+<p align="center">
+    <img width="300" src="./assets/images/banner/logo.svg">
+</p>
 
-A new Flutter project.
+-------
+Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Invertido é incerto, repleto de obstáculos e perigos. Porém, a recompensa é grande: salvar Hawkings e o mundo todo das garras de Vecna. Você está preparado(a)? 
 
-## Getting Started
+## 💻 Tecnologias
+- DART
+- FLUTTER
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 💬 Assuntos abordados
+- HTML
+    - Estruturação da página 
+    - Semântica
+    - Acessibilidade
+    - Web Scraping
+    - SEO
+- CSS
+    - Posicionamentos
+    - Pseudo-elementos
+    - Pseudo-classes
+    - Flexbox
+    - Animações 
+- JavaScript
+    - Introdução ao JavaScript
+    - Manipulação do DOM
+    - Introdução ao Firebase
+    - Integração com o Firebase
